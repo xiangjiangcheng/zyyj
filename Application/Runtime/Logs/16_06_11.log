@@ -1,0 +1,1141 @@
+[ 2016-06-11T12:45:45+08:00 ] ::1 /zyyj/index.php/Home/index/test
+ERR: 模板不存在:./Application/Home/View/Index_test.php
+
+[ 2016-06-11T12:47:18+08:00 ] ::1 /zyyj/index.php/Home/index/test
+ERR: 非法操作:test
+
+[ 2016-06-11T12:47:27+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+
+[ 2016-06-11T12:47:41+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+
+[ 2016-06-11T12:51:11+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003210s ]
+
+[ 2016-06-11T12:52:13+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001519s ]
+
+[ 2016-06-11T12:52:32+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001892s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001266s ]
+
+[ 2016-06-11T12:53:09+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001158s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2016-06-11T12:53:24+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001288s ]
+
+[ 2016-06-11T12:55:43+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002044s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.002994s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `user_id` = 0 )  [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001140s ]
+
+[ 2016-06-11T12:57:11+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001841s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.008670s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( name )  [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003033s ]
+
+[ 2016-06-11T12:57:40+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003051s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( name )  [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2016-06-11T12:58:32+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003132s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( name=admin )  [ RunTime:0.000299s ]
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `zyyj_user` WHERE ( name=admin ) 
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2016-06-11T12:59:22+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003835s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.001226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002704s ]
+
+[ 2016-06-11T12:59:54+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003308s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `user_id` = 0 )  [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2016-06-11T13:00:18+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002184s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003324s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `user_id` = 0 )  [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001023s ]
+
+[ 2016-06-11T13:00:36+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001780s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.002963s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2016-06-11T13:01:00+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.002912s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000503s ]
+
+[ 2016-06-11T13:01:46+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.005508s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002079s ]
+
+[ 2016-06-11T13:07:57+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001780s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003729s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000464s ]
+
+[ 2016-06-11T13:08:01+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003045s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000430s ]
+
+[ 2016-06-11T13:08:59+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.002995s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000507s ]
+
+[ 2016-06-11T13:09:09+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003348s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000612s ]
+
+[ 2016-06-11T13:09:43+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.004715s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000518s ]
+
+[ 2016-06-11T13:15:45+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+
+[ 2016-06-11T13:16:21+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003369s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+
+[ 2016-06-11T13:16:25+08:00 ] ::1 /zyyj/index.php/Home/index/Index_menu
+ERR: 模板不存在:./Application/Home/View/Index_Index_menu.php
+
+[ 2016-06-11T13:43:02+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001760s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.002966s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001394s ]
+
+[ 2016-06-11T14:04:21+08:00 ] ::1 /zyyj/index.php/Home/index/Index_loginout
+ERR: 模板不存在:./Application/Home/View/Index_Index_loginout.php
+
+[ 2016-06-11T14:05:41+08:00 ] ::1 /zyyj/index.php/Home/index/Index_loginout
+ERR: 模板不存在:./Application/Home/View/Index_Index_loginout.php
+
+[ 2016-06-11T15:11:31+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001846s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.005090s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001052s ]
+
+[ 2016-06-11T15:21:04+08:00 ] ::1 /zyyj/index.php/Home/Index/_before_run
+ERR: 非法操作:_before_run
+
+[ 2016-06-11T15:21:27+08:00 ] ::1 /zyyj/index.php/Home/Index/_before_run
+ERR: 非法操作:_before_run
+
+[ 2016-06-11T15:30:29+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001703s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.027646s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2016-06-11T15:43:52+08:00 ] ::1 /zyyj/index.php/Home/index/Index_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001886s ]
+ERR: 非法操作:Index_login
+
+[ 2016-06-11T15:44:50+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003414s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001030s ]
+
+[ 2016-06-11T15:45:30+08:00 ] ::1 /zyyj/index.php/Home/index/Index_loginout
+ERR: 非法操作:Index_loginout
+
+[ 2016-06-11T15:58:21+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.024066s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2016-06-11T16:14:00+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.005776s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001202s ]
+
+[ 2016-06-11T16:41:12+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002332s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003057s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001349s ]
+
+[ 2016-06-11T16:42:12+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003345s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001606s ]
+
+[ 2016-06-11T16:45:04+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001743s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003144s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001252s ]
+
+[ 2016-06-11T17:06:22+08:00 ] ::1 /zyyj/Home/idnex
+ERR: 无法加载控制器:Idnex
+
+[ 2016-06-11T17:06:33+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.005975s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-06-11T17:08:21+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003765s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.003719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001165s ]
+
+[ 2016-06-11T17:09:02+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001829s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002720s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001076s ]
+
+[ 2016-06-11T17:11:07+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001832s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.005107s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.000447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-06-11T17:13:48+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002400s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003589s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2016-06-11T17:20:28+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002997s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001358s ]
+
+[ 2016-06-11T17:24:06+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002023s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002793s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2016-06-11T17:31:32+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.004455s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001870s ]
+
+[ 2016-06-11T17:36:25+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+
+[ 2016-06-11T17:36:44+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+
+[ 2016-06-11T17:37:21+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003761s ]
+
+[ 2016-06-11T17:37:37+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002042s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002937s ]
+NOTIC: [8] Undefined variable: map E:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 34 行.
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.001600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001379s ]
+
+[ 2016-06-11T17:37:59+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+
+[ 2016-06-11T17:38:56+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003603s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001770s ]
+
+[ 2016-06-11T17:40:29+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001826s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003024s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.001770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001303s ]
+
+[ 2016-06-11T17:40:47+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003683s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.001494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2016-06-11T17:41:10+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001903s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002802s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001263s ]
+
+[ 2016-06-11T17:41:41+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003959s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001290s ]
+
+[ 2016-06-11T17:50:37+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003448s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003032s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001270s ]
+
+[ 2016-06-11T17:50:59+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003144s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001287s ]
+
+[ 2016-06-11T17:53:10+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002436s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002955s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-06-11T17:55:13+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002711s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003909s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001289s ]
+
+[ 2016-06-11T17:55:21+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003365s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002976s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001275s ]
+
+[ 2016-06-11T18:36:33+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002991s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2016-06-11T18:36:51+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.008018s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2016-06-11T18:45:39+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003040s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001176s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2016-06-11T18:45:40+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004775s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.004490s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 5 )  [ RunTime:0.000519s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2016-06-11T18:45:43+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003242s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 5 )  [ RunTime:0.001509s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2016-06-11T18:46:11+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.004100s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001785s ]
+
+[ 2016-06-11T18:46:12+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001601s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003025s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 5 )  [ RunTime:0.000539s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001353s ]
+
+[ 2016-06-11T18:46:20+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003888s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 0 )  [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003156s ]
+
+[ 2016-06-11T18:46:21+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.011730s ]
+SQL: SELECT * FROM `zyyj_nav` WHERE ( `nid` = 5 )  [ RunTime:0.000433s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001564s ]
+
+[ 2016-06-11T18:47:39+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003606s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001354s ]
+
+[ 2016-06-11T18:47:41+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002737s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.001008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002875s ]
+
+[ 2016-06-11T18:47:42+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002922s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.003079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2016-06-11T18:47:43+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002490s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.004361s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.001374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002018s ]
+
+[ 2016-06-11T18:47:44+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002880s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001592s ]
+
+[ 2016-06-11T18:47:45+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.005290s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.001173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001431s ]
+
+[ 2016-06-11T18:47:46+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001487s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002848s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001725s ]
+
+[ 2016-06-11T18:47:47+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003772s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.004534s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.002250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001269s ]
+
+[ 2016-06-11T18:47:49+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003223s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001257s ]
+
+[ 2016-06-11T18:47:51+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002139s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.004134s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.001284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001833s ]
+
+[ 2016-06-11T18:47:52+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003495s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-06-11T18:47:53+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003267s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001656s ]
+
+[ 2016-06-11T18:47:54+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002966s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001258s ]
+
+[ 2016-06-11T18:47:55+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001914s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.005421s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001222s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001302s ]
+
+[ 2016-06-11T18:49:05+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001646s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.003096s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001370s ]
+
+[ 2016-06-11T18:49:07+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001525s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.003848s ]
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001260s ]
+
+[ 2016-06-11T18:50:49+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002932s ]
+SQL: DESCRIBE zyyj_nav [ RunTime:0.002497s ]
+ERR: 1146:Table 'zyyj.zyyj_nav' doesn't exist
+ [ SQL语句 ] : DESCRIBE zyyj_nav
+SQL: SELECT * FROM `zyyj_nav`  [ RunTime:0.000835s ]
+ERR: 1146:Table 'zyyj.zyyj_nav' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `zyyj_nav` 
+NOTIC: [2] Invalid argument supplied for foreach() E:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001260s ]
+
+[ 2016-06-11T18:51:09+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002412s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003958s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.000449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001272s ]
+
+[ 2016-06-11T18:51:31+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001697s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003134s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001205s ]
+
+[ 2016-06-11T18:51:38+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002252s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003027s ]
+SQL: SELECT * FROM `zyyj_menu`  [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2016-06-11T18:52:01+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003024s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001226s ]
+
+[ 2016-06-11T18:52:03+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003046s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001369s ]
+
+[ 2016-06-11T18:55:17+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003540s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001262s ]
+
+[ 2016-06-11T18:55:19+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.005333s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001449s ]
+
+[ 2016-06-11T18:55:28+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002175s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002998s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2016-06-11T18:55:31+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.004714s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2016-06-11T18:56:55+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002886s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001081s ]
+
+[ 2016-06-11T18:56:57+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.005042s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-06-11T18:57:11+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003579s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001234s ]
+
+[ 2016-06-11T18:57:15+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002715s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001023s ]
+
+[ 2016-06-11T18:57:48+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001511s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002827s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+
+[ 2016-06-11T18:57:52+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002781s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2016-06-11T19:06:16+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001876s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.002804s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002086s ]
+
+[ 2016-06-11T19:06:19+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003149s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2016-06-11T19:08:34+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.005453s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2016-06-11T19:08:38+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003022s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2016-06-11T19:09:03+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002864s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003145s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001316s ]
+
+[ 2016-06-11T19:09:06+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.010365s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2016-06-11T19:09:40+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.004047s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2016-06-11T19:09:42+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003068s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000916s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2016-06-11T19:09:44+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_self?_=1465643379039
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000947s ]
+
+[ 2016-06-11T19:10:12+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.004139s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2016-06-11T19:10:15+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003205s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000388s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-06-11T19:10:16+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_self?_=1465643410438
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+
+[ 2016-06-11T19:11:17+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_self?_=1465643410439
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-06-11T19:11:44+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002595s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.005012s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.001117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001970s ]
+
+[ 2016-06-11T19:11:55+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003371s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001274s ]
+
+[ 2016-06-11T19:12:01+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.005911s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.001221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001568s ]
+
+[ 2016-06-11T19:12:02+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_self?_=1465643513675
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001266s ]
+
+[ 2016-06-11T19:29:25+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.004084s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001098s ]
+
+[ 2016-06-11T19:29:26+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002042s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.006543s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002453s ]
+
+[ 2016-06-11T19:29:29+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.003915s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001405s ]
+

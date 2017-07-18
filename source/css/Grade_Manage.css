@@ -1,0 +1,40 @@
+#J_RuleEdit
+{
+    margin: 0; 
+    padding: 10px 80px; 
+}
+#NewGrade 
+{ 
+    margin: 0; 
+    padding: 10px 70px; 
+} 
+#NewUser
+{ 
+    margin: 0; 
+    padding: 10px 50px; 
+} 
+#NewDpt
+{
+	margin: 0; 
+    padding: 10px 75px; 
+}
+.Gtitle
+{   text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 0;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #ccc;
+}
+.Gitem 
+{ 
+	display: inline-block; 
+    margin-bottom: 10px; 
+}
+.Mtitle
+{
+	display: inline-block;
+	min-width:  4em;
+	text-align: right;
+	margin-right:1em;
+}

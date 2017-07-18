@@ -1,0 +1,219 @@
+[ 2016-09-20T17:54:06+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: DESCRIBE zyyj_user [ RunTime:0.078001s ]
+SQL: DESCRIBE zyyj_department [ RunTime:0.062400s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'secretary' )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_department` WHERE ( `department_id` = 5 )  [ RunTime:0.046800s ]
+
+[ 2016-09-20T17:54:07+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: DESCRIBE zyyj_post [ RunTime:0.062801s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.044003s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 4 )  [ RunTime:0.042002s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 1 )  [ RunTime:0.042003s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.042002s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 2 )  [ RunTime:0.041201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 10 )  [ RunTime:0.031200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 4 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 3 )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 5 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 6 )  [ RunTime:0.031200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 8 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 32 )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 33 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 41 )  [ RunTime:0.031200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 35 )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 36 )  [ RunTime:0.046801s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 37 )  [ RunTime:0.031200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 38 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 47 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 39 )  [ RunTime:0.047800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 40 )  [ RunTime:0.031200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 46 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 48 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 42 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 43 )  [ RunTime:0.031200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 44 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-20T17:54:10+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: DESCRIBE zyyj_post [ RunTime:0.038200s ]
+SQL: DESCRIBE zyyj_menu [ RunTime:0.046801s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 4 )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 1 )  [ RunTime:0.038200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 0 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 2 )  [ RunTime:0.045201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 10 )  [ RunTime:0.041201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 4 )  [ RunTime:0.044200s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 3 )  [ RunTime:0.038201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 5 )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 6 )  [ RunTime:0.038601s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 8 )  [ RunTime:0.046800s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 32 )  [ RunTime:0.036201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 33 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 41 )  [ RunTime:0.047800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 35 )  [ RunTime:0.038601s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 36 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 37 )  [ RunTime:0.035201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 38 )  [ RunTime:0.050800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 47 )  [ RunTime:0.042002s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 39 )  [ RunTime:0.038200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 40 )  [ RunTime:0.036200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 46 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 48 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 42 )  [ RunTime:0.047602s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 43 )  [ RunTime:0.038201s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 44 )  [ RunTime:0.035200s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 0 )  [ RunTime:0.046800s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-20T17:54:11+08:00 ] ::1 /zyyj/index.php/Home/Student/Student_list?_=1474365246295
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-20T17:54:12+08:00 ] ::1 /zyyj/index.php/Home/Student/Student_getAllSearchData
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: DESCRIBE zyyj_student [ RunTime:0.045002s ]
+SQL: SELECT * FROM `zyyj_student` WHERE ( zyyj_student.college_id = '3' ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.044003s ]
+SQL: DESCRIBE zyyj_major [ RunTime:0.044002s ]
+SQL: SELECT * FROM `zyyj_major` WHERE ( zyyj_major.college_id = '3' ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.042003s ]
+SQL: DESCRIBE zyyj_class [ RunTime:0.034200s ]
+SQL: SELECT * FROM `zyyj_class` WHERE ( `major_id` IN ('17','1','7','12') ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.051800s ]
+SQL: DESCRIBE zyyj_grade [ RunTime:0.031201s ]
+SQL: SELECT * FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.031200s ]
+SQL: DESCRIBE zyyj_college [ RunTime:0.055201s ]
+SQL: SELECT * FROM `zyyj_college`  [ RunTime:0.031601s ]
+SQL: SELECT * FROM `zyyj_major` WHERE ( zyyj_major.college_id = '3' ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.051201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-20T17:54:12+08:00 ] ::1 /zyyj/index.php/Home/Student/Student_getAllStudent
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: DESCRIBE zyyj_student [ RunTime:0.046800s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `zyyj_student`  LEFT JOIN zyyj_college ON zyyj_student.college_id = zyyj_college.college_id LEFT JOIN zyyj_major ON zyyj_student.major_id = zyyj_major.major_id LEFT JOIN zyyj_grade ON zyyj_student.grade_id = zyyj_grade.grade_id LEFT JOIN zyyj_class ON zyyj_student.class_id = zyyj_class.class_id  WHERE ( zyyj_student.college_id = '3' ) AND ( zyyj_student.is_now = 1 ) LIMIT 1   [ RunTime:0.050800s ]
+SQL: SELECT zyyj_student.*,zyyj_class.name AS `class_name`,zyyj_grade.name AS `grade_name`,zyyj_major.name AS `major_name`,zyyj_college.name AS `college_name` FROM `zyyj_student`  LEFT JOIN zyyj_college ON zyyj_student.college_id = zyyj_college.college_id LEFT JOIN zyyj_major ON zyyj_student.major_id = zyyj_major.major_id LEFT JOIN zyyj_grade ON zyyj_student.grade_id = zyyj_grade.grade_id LEFT JOIN zyyj_class ON zyyj_student.class_id = zyyj_class.class_id  WHERE ( zyyj_student.college_id = '3' ) AND ( zyyj_student.is_now = 1 ) ORDER BY name DESC LIMIT 0,20   [ RunTime:0.031200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-09-20T17:54:12+08:00 ] ::1 /zyyj/index.php/Home/Student/Student_getMajorByCollegeId
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: DESCRIBE zyyj_major [ RunTime:0.031200s ]
+SQL: SELECT * FROM `zyyj_major` WHERE ( zyyj_major.college_id = '3' )  [ RunTime:0.046800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-20T17:54:13+08:00 ] ::1 /zyyj/index.php/Home/Student/Student_getClassByGradeAndMajorId
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: DESCRIBE zyyj_class [ RunTime:0.046800s ]
+NOTIC: [8] Undefined index: grade_id G:\xampp\htdocs\zyyj\Application\Home\Controller\StudentController.class.php 第 166 行.
+NOTIC: [8] Undefined index: major_id G:\xampp\htdocs\zyyj\Application\Home\Controller\StudentController.class.php 第 167 行.
+SQL: SELECT * FROM `zyyj_class` WHERE ( zyyj_class.grade_id = null ) AND ( zyyj_class.major_id = null )  [ RunTime:0.046800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-20T17:54:14+08:00 ] ::1 /zyyj/index.php/Home/StuManage/StuManage_Grade_Manage?_=1474365246297
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-20T17:54:15+08:00 ] ::1 /zyyj/index.php/Home/StuManage/StuManage_Gradelist.html?page=1&rows=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: DESCRIBE zyyj_grade [ RunTime:0.045002s ]
+NOTIC: [8] Undefined variable: map G:\xampp\htdocs\zyyj\Application\Home\Controller\StuManageController.class.php 第 23 行.
+SQL: SELECT * FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC LIMIT 0,10   [ RunTime:0.034602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

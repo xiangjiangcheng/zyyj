@@ -1,0 +1,78 @@
+[ 2016-12-09T16:35:33+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-12-09T16:36:17+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Access denied for user ''@'localhost' to database 'ost=localhost;dbname=zyyj;charset=utf8'
+
+[ 2016-12-09T16:37:57+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.002000s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'secretary' )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_department` WHERE ( `department_id` = 5 )  [ RunTime:0.024002s ]
+
+[ 2016-12-09T16:37:57+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.002000s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 4 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 1 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 10 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 4 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 3 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 5 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 6 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 8 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 32 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 33 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 41 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 35 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 36 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 37 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 38 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 47 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 39 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 40 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 46 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 48 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 42 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 43 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 44 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\xampp\htdocs\zyyj\Application\Home\Controller\LoginController.class.php ç¬¬ 51 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,1461 @@
+[ 2017-05-07T00:03:05+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.009000s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-05-07T00:03:05+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_GetDlist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.006000s ]
+NOTIC: [8] Undefined variable: map E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 221 行.
+SQL: SELECT `name`,`department_id` FROM `zyyj_department`  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T00:06:45+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_GetDlist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.012000s ]
+NOTIC: [8] Undefined variable: map E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 221 行.
+SQL: SELECT `name`,`department_id` FROM `zyyj_department`  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:06:45+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:07:24+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_GetDlist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: map E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 221 行.
+SQL: SELECT `name`,`department_id` FROM `zyyj_department`  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:07:24+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.015601s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:10:47+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetPostInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SELECT `post_id`,`name` FROM `zyyj_post`  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:10:47+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetbDlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: cid E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 231 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.001000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `zyyj_department` WHERE ( `college_id` = 0 ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:10:47+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.015600s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:11:32+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetPostInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005001s ]
+SQL: SELECT `post_id`,`name` FROM `zyyj_post`  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:11:32+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetbDlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: cid E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 231 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `zyyj_department` WHERE ( `college_id` = 0 ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:11:32+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.000000s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:16:44+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 2 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 1 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 7 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 3 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 11 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 16 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 52 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 53 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:16:45+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.003001s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 2 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 1 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 7 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 3 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 11 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 16 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 52 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 53 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:16:46+08:00 ] ::1 /zyyj/index.php/Home/Myself/Myself_self?_=1494085891829
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `user_id` = 4 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.004001s ]
+SQL: SELECT `name` FROM `zyyj_department` WHERE ( `department_id` = null ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:16:59+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_department` WHERE ( `department_id` = null )  [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:17:00+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 1 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 1 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 2 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 13 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 14 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 15 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 54 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 35 )  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T00:17:01+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.015601s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 1 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 1 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 13 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 14 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 15 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 54 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 35 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T00:17:23+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_index?_=1494087419868
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:23+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:23+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.007001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-05-07T00:17:23+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T00:17:23+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 22 )  [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.007001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 27 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.093006s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.008001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 32 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.007001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T00:17:24+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 39 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_menu_to_post_index?_=1494087419869
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006001s ]
+SQL: SELECT * FROM `zyyj_post`  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 1 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 39 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 22 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.007000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 13 )  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 27 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 32 )  [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-07T00:17:48+08:00 ] ::1 /zyyj/index.php/Home/Menu/Menu_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:52:28+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.111006s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.027001s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'manager' )  [ RunTime:0.027002s ]
+SQL: SELECT * FROM `zyyj_department` WHERE ( `department_id` = null )  [ RunTime:0.016001s ]
+
+[ 2017-05-07T16:52:30+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.082004s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.137008s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 2 )  [ RunTime:0.016001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 1 )  [ RunTime:0.011001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 2 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 7 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 3 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 11 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 16 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 52 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 53 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:52:31+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 2 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 1 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 0 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 7 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 3 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 11 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 16 )  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 52 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 53 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 11 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:52:34+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 2 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 1 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 10 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 7 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 3 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 11 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 16 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 52 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 53 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 52 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:52:36+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 2 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 1 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 2 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 7 )  [ RunTime:0.001001s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 3 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 11 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 16 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 52 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 53 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 3 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:54:56+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_Manage?_=1494147149335
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:54:56+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.043002s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.050003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:54:57+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_GetInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.007000s ]
+NOTIC: [8] Undefined variable: data E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 254 行.
+SQL: SELECT * FROM `zyyj_department` LIMIT 0,10   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.006001s ]
+SQL: SELECT `name` FROM `zyyj_college` WHERE ( 1=1 AND college_id='2' ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.007000s ]
+SQL: SELECT `name` FROM `zyyj_department` WHERE ( 1=1 AND department_id='1' ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `name` FROM `zyyj_college` WHERE ( 1=1 AND college_id='2' ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT `name` FROM `zyyj_department` WHERE ( 1=1 AND department_id='1' ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T16:54:57+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.007001s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:55:03+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.008001s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T16:55:03+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_GetDlist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.004000s ]
+NOTIC: [8] Undefined variable: map E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 221 行.
+SQL: SELECT `name`,`department_id` FROM `zyyj_department`  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:33+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_User_Manage?_=1494147149336
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:33+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.009001s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:11:33+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_Dpt_GetDlist.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.006000s ]
+NOTIC: [8] Undefined variable: map E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 221 行.
+SQL: SELECT `name`,`department_id` FROM `zyyj_department`  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:33+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysManage_GetUserInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.007000s ]
+SQL: SELECT zyyj_department.name as dptname,zyyj_department.*,zyyj_user.* FROM `zyyj_user` LEFT JOIN zyyj_department ON zyyj_department.department_id=zyyj_user.department_id  WHERE ( zyyj_user.user_id <> '4' ) AND ( zyyj_user.post_id <> 1 ) LIMIT 0,10   [ RunTime:0.046003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:34+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetPostInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SELECT `post_id`,`name` FROM `zyyj_post`  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:11:34+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetbDlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: cid E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 231 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.004001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `zyyj_department` WHERE ( `college_id` = 0 ) LIMIT 1   [ RunTime:0.047002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:34+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.004000s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:46+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetPostInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006000s ]
+SQL: SELECT `post_id`,`name` FROM `zyyj_post`  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:46+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCollege
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_college` [ RunTime:0.007001s ]
+SQL: SELECT `name`,`college_id` FROM `zyyj_college` ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:11:46+08:00 ] ::1 /zyyj/index.php/Home/SysUserManage/SysUserManage_GetbDlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: cid E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\SysUserManageController.class.php 第 231 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.006001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `zyyj_department` WHERE ( `college_id` = 0 ) LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:29:58+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'secratary' )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:05+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'secretary' )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_department` WHERE ( `department_id` = 3 )  [ RunTime:0.000000s ]
+
+[ 2017-05-07T17:30:05+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 4 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 1 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 2 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 3 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 4 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 5 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 6 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 7 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 8 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 32 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 33 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 41 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 43 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 36 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 35 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 37 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 38 )  [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 47 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 39 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 40 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 44 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 46 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 48 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:30:37+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 4 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 1 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 2 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 3 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 4 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 5 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 6 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 7 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 8 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 32 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 33 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 41 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 43 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 36 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 35 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 37 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 38 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 47 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 39 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 40 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 44 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 46 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 48 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 35 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_ShowCredit?_=1494149405311
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetClass
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.029001s ]
+SQL: SELECT `major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 )  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.040003s ]
+SQL: SELECT `name`,`class_id` FROM `zyyj_class` WHERE ( `major_id` IN ('32','33','34','35') ) ORDER BY convert(name using gb2312) DESC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetGrade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_grade` [ RunTime:0.018001s ]
+SQL: SELECT `name`,`grade_id` FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_GetInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_stu_score` [ RunTime:0.022001s ]
+SQL: SELECT zyyj_student.account,zyyj_student.name as stuname,sum(score) as tscore,zyyj_class.name as class_name,zyyj_grade.name as grade_name,zyyj_major.name as major_name,zyyj_college.name as college_name,zyyj_Stu_score.stu_id,`programme_id` FROM `zyyj_stu_score` LEFT JOIN zyyj_student ON zyyj_student.stu_id = zyyj_stu_score.stu_id LEFT JOIN zyyj_class ON zyyj_class.class_id = zyyj_student.class_id LEFT JOIN zyyj_grade ON zyyj_grade.grade_id =  zyyj_class.grade_id   LEFT JOIN zyyj_major ON zyyj_major.major_id = 
+			zyyj_grade.major_id   LEFT JOIN zyyj_college ON zyyj_college.college_id = 
+			zyyj_major.college_id  WHERE ( zyyj_college.college_id = '2' ) GROUP BY stu_id LIMIT 0,10   [ RunTime:0.024002s ]
+SQL: SHOW COLUMNS FROM `zyyj_programme` [ RunTime:0.017001s ]
+SQL: SELECT * FROM `zyyj_programme` ORDER BY createdate desc  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 107 行.
+NOTIC: [2] array_multisort(): Argument #1 is expected to be an array or a sort flag E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetMajor
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.007001s ]
+SQL: SELECT `name`,`major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.013001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetGrade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_grade` [ RunTime:0.010001s ]
+SQL: SELECT `name`,`grade_id` FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:39+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetClass
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.009000s ]
+SQL: SELECT `major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 )  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.008001s ]
+SQL: SELECT `name`,`class_id` FROM `zyyj_class` WHERE ( `major_id` IN ('32','33','34','35') ) ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:43+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_CreditRule?_=1494149405313
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:30:43+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_GetRule.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_exhcangerule` [ RunTime:0.015001s ]
+SQL: SELECT * FROM `zyyj_exhcangerule` ORDER BY createdate desc  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:32:05+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_ShowStage?_=1494149405315
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:05+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetClass
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.006001s ]
+SQL: SELECT `major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 )  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`class_id` FROM `zyyj_class` WHERE ( `major_id` IN ('32','33','34','35') ) ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:32:05+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetGrade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_grade` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`grade_id` FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:06+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_Getstage.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_student_practice` [ RunTime:0.058003s ]
+SQL: SELECT zyyj_course.name  as couname,zyyj_checkpoint.name as pointname,zyyj_programme.name as pname,zyyj_student.account,zyyj_student_practice.status,zyyj_student.account,zyyj_student_practice.score,zyyj_student.name as stuname,zyyj_class.name as class_name,zyyj_grade.name as grade_name,zyyj_major.name as major_name,zyyj_college.name as college_name FROM `zyyj_student_practice` 
+			LEFT JOIN zyyj_course ON zyyj_course.course_id = zyyj_student_practice.course_id 
+			LEFT JOIN zyyj_checkpoint ON zyyj_checkpoint.checkpoint_id = zyyj_student_practice.checkpoint_id 
+			LEFT JOIN zyyj_programme ON zyyj_programme.programme_id = zyyj_student_practice.programme_id
+			LEFT JOIN zyyj_student  ON zyyj_student.stu_id  = zyyj_student_practice.stu_id 
+			LEFT JOIN zyyj_class ON zyyj_class.class_id = zyyj_student.class_id 
+			LEFT JOIN zyyj_grade ON zyyj_grade.grade_id =  zyyj_class.grade_id   
+			LEFT JOIN zyyj_major ON zyyj_major.major_id = zyyj_grade.major_id  
+			LEFT JOIN zyyj_college ON zyyj_college.college_id = zyyj_major.college_id
+			  WHERE ( zyyj_college.college_id = '2' ) AND ( zyyj_student_practice.type = 2 ) LIMIT 0,10   [ RunTime:0.058004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:06+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetCourse
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_course` [ RunTime:0.006001s ]
+SQL: SELECT `name`,`course_id` FROM `zyyj_course` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:32:06+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetClass
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.005000s ]
+SQL: SELECT `major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 )  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`class_id` FROM `zyyj_class` WHERE ( `major_id` IN ('32','33','34','35') ) ORDER BY convert(name using gb2312) DESC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:06+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetMajor
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:06+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetGrade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_grade` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`grade_id` FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-07T17:32:08+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_Exchangelist?_=1494149405317
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:08+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetClass
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.007000s ]
+SQL: SELECT `major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 )  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.007001s ]
+SQL: SELECT `name`,`class_id` FROM `zyyj_class` WHERE ( `major_id` IN ('32','33','34','35') ) ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:08+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetGrade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_grade` [ RunTime:0.006001s ]
+SQL: SELECT `name`,`grade_id` FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:08+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_GetList.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_exchangeintegral` [ RunTime:0.195011s ]
+SQL: SELECT zyyj_exhcangerule.name as rname,zyyj_student.account as account,zyyj_class.name  as class_name,zyyj_grade.name as grade_name,zyyj_major.name as major_name,zyyj_college.name as college_name,zyyj_student.name as stuname,zyyj_exchangeintegral.score as needscore,zyyj_exchangeintegral.integral as getscore,zyyj_student.gender as stusex,zyyj_exchangeintegral.createdate as time FROM `zyyj_exchangeintegral` 
+			LEFT JOIN zyyj_exhcangerule ON zyyj_exhcangerule.rule_id=zyyj_exchangeintegral.rule_id
+			LEFT JOIN zyyj_student ON zyyj_student.stu_id=zyyj_exchangeintegral.stu_id
+			LEFT JOIN zyyj_class ON zyyj_class.class_id = zyyj_student.class_id 
+			LEFT JOIN zyyj_grade ON zyyj_grade.grade_id =  zyyj_class.grade_id   
+			LEFT JOIN zyyj_major ON zyyj_major.major_id = zyyj_grade.major_id  
+			LEFT JOIN zyyj_college ON zyyj_college.college_id = zyyj_major.college_id  WHERE ( zyyj_college.college_id = '2' ) ORDER BY zyyj_exchangeintegral.createdate desc LIMIT 0,10   [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T17:32:08+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetMajor
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.005001s ]
+SQL: SELECT `name`,`major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 ) ORDER BY convert(name using gb2312) ASC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:32:09+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetGrade
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_grade` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`grade_id` FROM `zyyj_grade` ORDER BY convert(name using gb2312) DESC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-07T17:32:09+08:00 ] ::1 /zyyj/index.php/Home/Tao/Tao_GetClass
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_major` [ RunTime:0.007000s ]
+SQL: SELECT `major_id` FROM `zyyj_major` WHERE ( `college_id` = 2 )  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.006000s ]
+SQL: SELECT `name`,`class_id` FROM `zyyj_class` WHERE ( `major_id` IN ('32','33','34','35') ) ORDER BY convert(name using gb2312) DESC  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T19:37:17+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_GetInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_stu_score` [ RunTime:0.004000s ]
+SQL: SELECT zyyj_student.account,zyyj_student.name as stuname,sum(score) as tscore,zyyj_class.name as class_name,zyyj_grade.name as grade_name,zyyj_major.name as major_name,zyyj_college.name as college_name,zyyj_Stu_score.stu_id,`programme_id` FROM `zyyj_stu_score` LEFT JOIN zyyj_student ON zyyj_student.stu_id = zyyj_stu_score.stu_id LEFT JOIN zyyj_class ON zyyj_class.class_id = zyyj_student.class_id LEFT JOIN zyyj_grade ON zyyj_grade.grade_id =  zyyj_class.grade_id   LEFT JOIN zyyj_major ON zyyj_major.major_id = 
+			zyyj_grade.major_id   LEFT JOIN zyyj_college ON zyyj_college.college_id = 
+			zyyj_major.college_id  WHERE ( zyyj_college.college_id = '2' ) GROUP BY stu_id LIMIT 0,10   [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_programme` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `zyyj_programme` ORDER BY createdate desc  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 107 行.
+NOTIC: [2] array_multisort(): Argument #1 is expected to be an array or a sort flag E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-07T19:37:18+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_GetInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_stu_score` [ RunTime:0.005000s ]
+SQL: SELECT zyyj_student.account,zyyj_student.name as stuname,sum(score) as tscore,zyyj_class.name as class_name,zyyj_grade.name as grade_name,zyyj_major.name as major_name,zyyj_college.name as college_name,zyyj_Stu_score.stu_id,`programme_id` FROM `zyyj_stu_score` LEFT JOIN zyyj_student ON zyyj_student.stu_id = zyyj_stu_score.stu_id LEFT JOIN zyyj_class ON zyyj_class.class_id = zyyj_student.class_id LEFT JOIN zyyj_grade ON zyyj_grade.grade_id =  zyyj_class.grade_id   LEFT JOIN zyyj_major ON zyyj_major.major_id = 
+			zyyj_grade.major_id   LEFT JOIN zyyj_college ON zyyj_college.college_id = 
+			zyyj_major.college_id  WHERE ( zyyj_college.college_id = '2' ) GROUP BY stu_id LIMIT 0,10   [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zyyj_programme` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `zyyj_programme` ORDER BY createdate desc  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 107 行.
+NOTIC: [2] array_multisort(): Argument #1 is expected to be an array or a sort flag E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-07T19:37:23+08:00 ] ::1 /zyyj/index.php/Home/CreditManage/CreditManage_GetInfo.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_stu_score` [ RunTime:0.005000s ]
+SQL: SELECT zyyj_student.account,zyyj_student.name as stuname,sum(score) as tscore,zyyj_class.name as class_name,zyyj_grade.name as grade_name,zyyj_major.name as major_name,zyyj_college.name as college_name,zyyj_Stu_score.stu_id,`programme_id` FROM `zyyj_stu_score` LEFT JOIN zyyj_student ON zyyj_student.stu_id = zyyj_stu_score.stu_id LEFT JOIN zyyj_class ON zyyj_class.class_id = zyyj_student.class_id LEFT JOIN zyyj_grade ON zyyj_grade.grade_id =  zyyj_class.grade_id   LEFT JOIN zyyj_major ON zyyj_major.major_id = 
+			zyyj_grade.major_id   LEFT JOIN zyyj_college ON zyyj_college.college_id = 
+			zyyj_major.college_id  WHERE ( zyyj_student.account LIKE '%222%' ) AND ( zyyj_college.college_id = '2' ) GROUP BY stu_id LIMIT 0,10   [ RunTime:0.029002s ]
+SQL: SHOW COLUMNS FROM `zyyj_programme` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `zyyj_programme` ORDER BY createdate desc  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 107 行.
+NOTIC: [2] array_multisort(): Argument #1 is expected to be an array or a sort flag E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\CreditManageController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

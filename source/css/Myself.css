@@ -1,0 +1,41 @@
+	h3{
+		font-weight: 700;
+		font-family: '微软雅黑';
+	}
+	.form-box{
+		padding-bottom: 30px;
+		border: 1px solid rgb(149,184,231);
+		width:300px;
+		position: relative;
+		margin:2em auto;
+		text-align: center;
+	}
+	.prebox{
+		display: inline-block;
+		min-width:  4em;
+		text-align: right;
+		margin-right:1em;
+	}
+	.lstbox{
+		display: inline-block;
+		min-width:  4em;
+		text-align: center;
+	}
+	.button-box{
+		text-align: center;
+	}
+	.input-box{
+		margin-bottom: 10px;
+	}
+	#idinput{
+		display: none;
+	}
+	.success{
+		color: green;
+	}
+	.false{
+		color: red;
+	}
+	.textbox{
+		width: 145px!important;
+	}

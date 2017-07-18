@@ -1,0 +1,22 @@
+[ 2017-05-02T00:22:44+08:00 ] ::1 /zyyj/index.php/Home/Class/Class_getInfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.004001s ]
+SQL: SELECT zyyj_grade.name gname,zyyj_class.name cname,zyyj_major.name mname,zyyj_class.class_id cid,zyyj_class.grade_id gid,zyyj_class.major_id mid,zyyj_class.comment ccomment FROM `zyyj_class` INNER JOIN zyyj_grade ON zyyj_class.grade_id = zyyj_grade.grade_id INNER JOIN zyyj_major ON zyyj_class.major_id = zyyj_major.major_id  WHERE ( class_id='37' )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-02T00:22:53+08:00 ] ::1 /zyyj/index.php/Home/Class/Class_getInfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_class` [ RunTime:0.005000s ]
+SQL: SELECT zyyj_grade.name gname,zyyj_class.name cname,zyyj_major.name mname,zyyj_class.class_id cid,zyyj_class.grade_id gid,zyyj_class.major_id mid,zyyj_class.comment ccomment FROM `zyyj_class` INNER JOIN zyyj_grade ON zyyj_class.grade_id = zyyj_grade.grade_id INNER JOIN zyyj_major ON zyyj_class.major_id = zyyj_major.major_id  WHERE ( class_id='36' )  [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,44 @@
+[ 2017-06-27T21:36:20+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_user` [ RunTime:0.011001s ]
+SQL: SHOW COLUMNS FROM `zyyj_department` [ RunTime:0.025002s ]
+SQL: SELECT * FROM `zyyj_user` WHERE ( `name` = 'admin' )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_department` WHERE ( `department_id` = null )  [ RunTime:0.000000s ]
+
+[ 2017-06-27T21:36:22+08:00 ] ::1 /zyyj/index.php/Home/Login/Login_get_menu
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `zyyj_post` [ RunTime:0.048002s ]
+SQL: SHOW COLUMNS FROM `zyyj_menu` [ RunTime:0.208012s ]
+SQL: SELECT * FROM `zyyj_post` WHERE ( `post_id` = 1 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 1 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 2 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 10 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 11 )  [ RunTime:0.001000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 12 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 16 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 13 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 14 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 15 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 54 )  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 35 )  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `zyyj_menu` WHERE ( `nid` = 0 ) AND ( `id` = 0 )  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\Program Files\PHPtools\Apach2.4\Apache24\htdocs\zyyj\Application\Home\Controller\LoginController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
